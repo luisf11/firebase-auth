@@ -1,0 +1,7 @@
+lib
+node_modules
+npm-debug.log
+typings
+yarn.lock
+service_account.json
+**/.firebaserc
